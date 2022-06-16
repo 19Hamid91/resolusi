@@ -1,3 +1,4 @@
 RENCANA BARU
 - belajar frontend otw jadi fullstack dev
-- coba sesuatu yang baru
+- coba sesuatu yang baru (mobile app)
+- coba IoT
