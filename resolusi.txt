@@ -1,3 +1,4 @@
 RESOLUSI 2022
 - bisa laravel
 - bisa membuat tampilan web (bootstraps)
+- bisa membuat web responsive tanpa tutorial
